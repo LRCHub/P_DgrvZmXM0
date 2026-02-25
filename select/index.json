@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "解答（feat. わん子）",
+  "base_artist": "MIMI",
+  "createdAt": "2026-02-25T05:43:11.476228Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "解答 (feat. わん子)",
+      "artist": "MIMI",
+      "has_synced": false,
+      "path": "select/pl_01_解答_(feat._わん子)_MIMI.txt"
+    }
+  ]
+}
